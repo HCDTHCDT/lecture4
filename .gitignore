@@ -1,1 +1,2 @@
-__pycache__/
+#git rm --cached .gitignore
+__pycache__/*.pyc
